@@ -1,1 +1,26 @@
-metadata.json
+metadata.{
+  "Code Samples": [
+    {
+      "title": "Python Data Cleaning Code",
+      "description": "Python script for data cleaning operations.",
+      "author": "Your Name",
+      "date_created": "2024-11-04"
+    }
+  ],
+  "Dataset": [
+    {
+      "title": "Sample Dataset",
+      "description": "A CSV dataset for testing purposes.",
+      "author": "Your Name",
+      "date_created": "2024-11-04"
+    }
+  ],
+  "Resources": [
+    {
+      "title": "Data Science Resources",
+      "description": "PDF of guides and references for data science.",
+      "author": "Your Name",
+      "date_created": "2024-11-04"
+    }
+  ]
+}
