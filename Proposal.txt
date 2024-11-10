@@ -1,0 +1,28 @@
+﻿1. Rationale for Development This repository aims to provide students and entry-level professionals in data science with essential resources in a single, organized location. By consolidating code samples, datasets, and educational resources, it simplifies access and serves as a practical reference for users in their learning and project work.
+
+
+2. User Group The intended users of this repository are: - Data science students - Entry-level data scientists - Educators looking for structured resources to guide students
+
+
+3. Information Needs of the User Group This user group primarily needs: - Example code for common data science tasks like data cleaning & visualization - Datasets for practice and assignments - Reference materials such as guides and articles to support learning and application
+
+
+4. Gaps in Information Provision Existing data science resources are often scattered across various sites, making it difficult for beginners to find reliable and cohesive information in one place. This repository fills this gap by offering curated resources in a central location.
+
+
+5. Criteria for Evaluation of Information - Use Case 1: A user can locate Python scripts for data cleaning in the Code Samples folder. - Use Case 2: Users needing data for practice can find sample datasets in the Dataset folder. - Use Case 3: Users seeking reading materials can find guides and articles in the Resources folder.
+
+
+6. Specifications for the System The repository is structured as follows: - Code Samples: Contains Python scripts for various data science tasks. - Dataset: Provides sample data files CSV, JSON for practice. - Resources: Includes PDF guides and articles for reference. Each file has metadata, including a title, description, keywords, and date added, to facilitate easy navigation and search.
+
+
+7. Objectives of the System - Provide a structured, accessible repository for data science resources. - Enable students and entry-level professionals to quickly locate materials for various data science tasks. - Offer a reliable starting point for learning through examples, datasets, and reference materials.
+
+
+8. Development Process The system is built on GitHub, organized with top-level folders Code Samples, Dataset, Resources. Metadata is added via README.md files and/or JSON metadata files. The repository is publicly accessible, allowing users to view and download resources easily.
+
+
+9. Field Testing and Dissemination This repository will be shared with students for feedback. GitHub’s issue-tracking feature will be used to address any user comments and improve the repository structure or content as needed.
+
+
+10. Timetable and Skills Needed - Initial setup and item upload: 1–2 hours - Ongoing maintenance: 1 hour per month - Skills required: Familiarity with GitHub, basic JSON knowledge for metadata creation
